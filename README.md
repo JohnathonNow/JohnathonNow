@@ -9,8 +9,6 @@ the ones who started calling me Jeffrey. After graduating from Notre Dame,
 I <s>spent the summer running around chanting "37-0" until the Michigan season opener</s><sup>1</sup> started
 my PhD studies at NYU.
 
-My research interests lie broadly in systems. I've been exploring whether edge computing is useful for anything besides web caching, and what software written for the edge should look like.
-
 When I'm not writing code, I tend to my diverse hobbies. I like video games,
 and I play a wide variety of them when I have the time.  
 Recently, I've also taken on 3D printing, and I
@@ -18,9 +16,10 @@ haven't yet burnt down my house. Throughout quarantine, I've been doing a lot
 of woodworking, and have learned about a dozen ways not to make a cup out
 of wood<sup>2</sup>. 
 
-On October 1st, I married my wife [breezy](http://bashfulbytes.com/). 
+On October 1st, 2020, I married my wife [breezy](http://bashfulbytes.com/). 
 
-In the summer of 2021, I moved across the country from Hadley, Massachusetts to Redding, California. At the same time, I took a leave of absence from my studies at NYU, and became a software engineer at Optum.
+In the summer of 2021, I moved across the country from Hadley, Massachusetts to Redding, California.
+At the same time, I took a leave of absence from my studies at NYU, and became a software engineer at Optum.
 
 <sup>1</sup>Considering Notre Dame would lose to Michigan 14-45 the following year and then proceed to not play them for 14 years, *oof*.  
 <sup>2</sup>I did eventually succeed in making a wooden cup - it leaks slowly, but looks *great*!
