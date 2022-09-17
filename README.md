@@ -5,21 +5,12 @@ I graduated from the University of Notre Dame in May of 2018, with a BS in Compu
 I lived in [Stanford Hall](http://www3.nd.edu/~stanford/) (<s>pictured above</s><i> well, it would be if GitHub supported it, but for that you'll have to go to <a href="https://www.johnwesthoff.com/about/">my personal site's readme</a></i>).
 I once served as the <s>mascot</s> secretary for the 
 [Notre Dame Linux Users Group](http://ndlug.org/), and they're
-the ones who started calling me Jeffrey. After graduating from Notre Dame,
-I <s>spent the summer running around chanting "37-0" until the Michigan season opener</s><sup>1</sup> started
-my PhD studies at NYU.
+the ones who started calling me Jeffrey.
 
-When I'm not writing code, I tend to my diverse hobbies. I like video games,
-and I play a wide variety of them when I have the time.  
-Recently, I've also taken on 3D printing, and I
-haven't yet burnt down my house. Throughout quarantine, I've been doing a lot
-of woodworking, and have learned about a dozen ways not to make a cup out
-of wood<sup>2</sup>. 
+On October 1st, 2020, I married my wife [breezy](http://bashfulbytes.com/), and three quarters of a year
+later we moved across the country from Hadley, Massachusetts to Redding, California.
+At the same time, I left my PhD program at NYU, and became a software engineer at Optum.
 
-On October 1st, 2020, I married my wife [breezy](http://bashfulbytes.com/). 
-
-In the summer of 2021, I moved across the country from Hadley, Massachusetts to Redding, California.
-At the same time, I took a leave of absence from my studies at NYU, and became a software engineer at Optum.
-
-<sup>1</sup>Considering Notre Dame would lose to Michigan 14-45 the following year and then proceed to not play them for 14 years, *oof*.  
-<sup>2</sup>I did eventually succeed in making a wooden cup - it leaks slowly, but looks *great*!
+My website is probably a good place to keep up with what I've been working on non-professionally. I like doing random, um, not good things,
+to counter balance the good things I do at my real job. By not good I don't mean evil or bad, but instead like, not useful. Oh, I guess almost
+all of the projects there have repos hosted here...
